@@ -2,7 +2,7 @@
 title: "rpart2tidy"
 author: "Mark Ravina"
 date: "5/30/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
